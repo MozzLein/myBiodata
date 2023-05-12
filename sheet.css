@@ -1,0 +1,37 @@
+*{
+    margin:0;
+}
+header{
+    background-color:aqua
+}
+body{
+    font-family: sans-serif;
+    width:100%;
+}
+h1{
+    text-align: center;
+}
+.hero{
+    color:white;
+    background-color:#302f2f;
+    display:flex;
+    align-items: center;
+    padding : 100px 100px;
+    flex-direction: center;
+    border-bottom: 2px solid red;
+}
+.hero img{
+    margin-right:50px;
+    max-width:150px;
+}
+.about-me{
+    padding : 50px 100px;
+    background-color:#f4f4f4;
+}
+
+.temukan-saya{
+    background-color:grey;
+    color : white;
+    text-align: center;
+    padding: 30px 0;
+}
